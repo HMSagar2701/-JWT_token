@@ -1,0 +1,26 @@
+{
+  "name": "jwt_auth",
+  "version": "1.0.0",
+  "description": "JWT project to test JWT token, workflow, how it will work...",
+"main": "index.js", 
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HMSagar2701/-JWT_token.git"
+  },
+  "keywords": [
+    "No"
+  ],
+  "author": "H M Sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HMSagar2701/-JWT_token/issues"
+  },
+  "homepage": "https://github.com/HMSagar2701/-JWT_token#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
